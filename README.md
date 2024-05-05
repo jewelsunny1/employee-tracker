@@ -1,4 +1,4 @@
-# Employee-tracker# 
+# Employee-tracker
 This employee tracker allows users to retrieve data about employees, departments, and the roles for a business/company.
 
 ## Description
